@@ -1,0 +1,121 @@
+{
+    "greet": [
+            "hello",
+            "hi",
+            "hi there",
+            "good morning",
+            "good afternoon",
+            "good evening",
+            "hey!",
+            "greetings"
+            ]
+         
+    ,
+    "function": [
+        "what can you do",
+        "what do you do",
+        "how can you help me"
+    ],
+
+    "get_name": [
+        "what is my name",
+        "do you know my name",
+        "tell me my name"
+    ],
+
+    "cancel_booking": [
+        "cancel my flight",
+        "cancel my booking",
+        "delete my booking"
+    ],
+
+
+
+    "unknown": [
+        "what are stocks and bonds"
+    ],
+
+    "faq": [
+        "what is the baggage allowance?",
+        "how do I change my flight?",
+        "can I refund my ticket?",
+        "can i change my ticket?"
+    ],
+
+    "set_passengers": [
+        "for 2 people",
+        "for 3 people",
+        "for just me",
+        "for 1 person"
+    ],
+
+    "choose_option": [
+        "option 1",
+        "option 2",
+        "option 3",
+        "I will take option 1",
+        "I will take option 2",
+        "I will take option 3"
+    ],
+
+    "search_flights": [
+        "find me a flight",
+        "search for a flight",
+        "book me a flight",
+        "show me flights",
+        "I want to book a flight"
+    ],
+
+    "set_origin": [
+        "from New York",
+        "leaving from London",
+        "departing from San Francisco",
+        "i want to fly from Tokyo"
+    ],
+
+    "set_destination": [
+        "to Paris",
+        "going to Berlin",
+        "flying to Rome",
+        "i want to go to Dubai"
+    ],
+
+    "set_departure_date": [
+        "on July 5th",
+        "leaving on December 20",
+        "i want to fly on March 15th",
+        "departure date is August 1"
+    ],
+
+    "set_return_date": [
+        "returning on July 10th",
+        "back on December 25",
+        "i want to come back on March 20th",
+        "return date is August 5"
+    ],
+
+    "set_cabin": [
+        "in economy class",
+        "business class",
+        "i want first class",
+        "first class"
+    ],
+
+    "set_trip_type": [
+        "one way trip",
+        "round trip",
+        "return trip",
+        "i want a one way ticket",
+        "just a one way flight"
+    ],
+
+    "edit_booking": [
+        "change my flight",
+        "modify my booking",
+        "edit my booking",
+        "i need to change my reservation",
+        "update my flight details"
+    ]
+
+    
+}
